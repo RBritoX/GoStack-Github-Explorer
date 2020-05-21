@@ -37,7 +37,7 @@
 ## 📝 About the project
 Github Explorer is an application made with React.js to list the Github repositories and display their issues.
 
-<a align="center" href="https://githubexp.netlify.app/">
+<a align="center" href="https://githubexp.netlify.app/" target="_blank">
   <img alt="github" src="https://user-images.githubusercontent.com/34657005/82603591-50fffd00-9b89-11ea-8c40-86000830e4ae.gif"/>
 </a>
 
@@ -50,8 +50,6 @@ Github Explorer is an application made with React.js to list the Github reposito
 - *[ESLint](https://eslint.org/)*
 - *[Prettier](https://prettier.io/)*
 - *[EditorConfig](https://editorconfig.org/)*
-
-<br>
 
 ## 🏁 Starting the project
 Clone the project: `git clone https://github.com/RBritoX/GoStack-Github-Explorer`
