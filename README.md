@@ -37,8 +37,9 @@
 ## 📝 About the project
 Github Explorer is an application made with React.js to list the Github repositories and display their issues.
 
-![Captura de Tela 2020-04-30 às 18 17 24](https://user-images.githubusercontent.com/34657005/80761733-7dd46d80-8b11-11ea-9cd5-43d7b25d6fd0.png)
-![Captura de Tela 2020-04-30 às 18 17 34](https://user-images.githubusercontent.com/34657005/80761803-a2c8e080-8b11-11ea-993b-d6b5e1d4a042.png)
+<a align="center" href="https://githubexp.netlify.app/">
+  <img alt="github" src="https://user-images.githubusercontent.com/34657005/82603591-50fffd00-9b89-11ea-8c40-86000830e4ae.gif"/>
+</a>
 
 ## 🛠 Technologies
 - **[React.js](https://reactjs.org/)**
